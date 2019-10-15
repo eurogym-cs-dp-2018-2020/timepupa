@@ -1,0 +1,22 @@
+{
+  "name": "timepupa",
+  "version": "1.0.0",
+  "description": "timetable generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eurogym-cs-dp-2018-2020/timepupa.git"
+  },
+  "keywords": [
+    "timetable"
+  ],
+  "author": "mk@stymax.ru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eurogym-cs-dp-2018-2020/timepupa/issues"
+  },
+  "homepage": "https://github.com/eurogym-cs-dp-2018-2020/timepupa#readme"
+}
