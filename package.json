@@ -4,6 +4,7 @@
   "description": "timetable generator",
   "main": "index.js",
   "scripts": {
+    "run": "node index.js",
     "test": "test"
   },
   "repository": {
